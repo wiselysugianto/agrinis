@@ -1,0 +1,37 @@
+#pesan_login{
+  display:none;
+  font-size:12px;
+  position:absolute;
+  width:100%;
+  left:0px
+}
+
+#error{
+  font-size:12px;
+}
+
+.error{
+  font-size:12px;
+}
+
+.table thead th {
+  text-align: center;
+}
+
+.table tbody td {
+  vertical-align: middle;
+}
+
+.table td.details-control {
+  cursor: pointer;
+}
+
+.dt_right{
+  text-align: right;
+}
+.dt_left{
+  text-align: left;
+}
+.dt_center{
+  text-align: center;
+}
